@@ -2677,7 +2677,6 @@
       "X-Amz-Cf-Id": ""
     },
     "icon": "Amazon Cloudfront.svg",
-    "implies": "Amazon Web Services",
     "saas": true,
     "website": "https://aws.amazon.com/cloudfront/"
   },
